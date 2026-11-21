@@ -1,0 +1,7 @@
+{
+  "appId": "com.thinhours.game",
+  "appName": "The Thin Hours",
+  "webDir": "www",
+  "backgroundColor": "#0b0d18",
+  "android": { "backgroundColor": "#0b0d18" }
+}
